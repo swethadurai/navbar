@@ -1,0 +1,37 @@
+.main{
+    background-color: rgb(233, 234, 235);
+    display: flex;
+    padding:40px 50px ;
+    text-align: left;
+   
+  
+ 
+}
+
+.filters{
+    border: 1px solid rgb(180, 178, 178);
+    padding: 40px 50px;
+    background-color: white;
+    border-radius: 50px;
+    opacity: 70%;
+    
+}
+#location-searchBar{
+    height: 25px;
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+
+  
+    
+}
+#price
+ {
+    margin: 0.4rem;
+    height: 2px;
+}
+#sqFeet{
+    height: 2px;
+
+}
